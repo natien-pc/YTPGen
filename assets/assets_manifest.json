@@ -1,0 +1,18 @@
+{
+  "generated_by": "create_assets.py",
+  "folders": [
+    "sounds",
+    "soundos",
+    "errors",
+    "advert",
+    "memes",
+    "overlays",
+    "sources",
+    "temp",
+    "templates",
+    "presets",
+    "autosave",
+    "examples"
+  ],
+  "notes": "Populate these folders with your assets. Keep large files out of the repo."
+}
