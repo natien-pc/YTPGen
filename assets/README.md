@@ -1,4 +1,3 @@
-```markdown
 # assets/ — Organized asset folders for YTPDeluxe (YTPGen)
 
 This folder is the central place to store media and helper files used by the YTPDeluxe generator.
